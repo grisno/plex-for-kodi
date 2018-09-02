@@ -225,7 +225,6 @@ msgctxt "#32057"
 msgid "Current Server Version"
 msgstr ""
 
-
 msgctxt "#32100"
 msgid "Skip user selection and pin entry on startup."
 msgstr ""
@@ -245,7 +244,6 @@ msgstr ""
 msgctxt "#32104"
 msgid "When to connect to servers with no secure connections.[CR][CR]* [B]Never[/B]: Never connect to a server insecurely[CR]* [B]On Same Network[/B]: Allow if on the same network[CR]* [B]Always[/B]: Allow same network and remote connections"
 msgstr ""
-
 
 msgctxt "#32201"
 msgid "Trailer"
