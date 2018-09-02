@@ -4,9 +4,9 @@ msgstr ""
 "Project-Id-Version: XBMC-Addons\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: 2013-12-12 22:56+0000\n"
-"PO-Revision-Date: 2017-04-21 19:23+0100\n"
+"PO-Revision-Date: 2018-09-02 22:37+0000\n"
 "Last-Translator: Norbert Suto <suto.norbert@gmail.com>\n"
-"Language-Team: \n"
+"Language-Team: LANGUAGE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -225,7 +225,6 @@ msgctxt "#32057"
 msgid "Current Server Version"
 msgstr "Jelenlegi szerver verzió"
 
-
 msgctxt "#32100"
 msgid "Skip user selection and pin entry on startup."
 msgstr "Felhasználó kiválasztás és a PIN kód megadás átugrása indításkor."
@@ -245,7 +244,6 @@ msgstr "Engedélyezze ezt, ha a hardver képes a HEVC/h265 lejátszásra. Kapcso
 msgctxt "#32104"
 msgid "When to connect to servers with no secure connections.[CR][CR]* [B]Never[/B]: Never connect to a server insecurely[CR]* [B]On Same Network[/B]: Allow if on the same network[CR]* [B]Always[/B]: Allow same network and remote connections"
 msgstr "Mikor kapcsolódhat nem biztonságosan a szerverekhez.[CR][CR]* [B]Soha[/B]: Soha ne kapcsolódjon[CR]* [B]Azonos hálózat[/B]: Azonos hálózat esetén engedélyezze[CR]* [B]Mindig[/B]: Engedélyezze helyi és távoli kapcsolat esetén is"
-
 
 msgctxt "#32201"
 msgid "Trailer"
@@ -920,9 +918,57 @@ msgid "Please change change or remove the current filter"
 msgstr "Kérem változtassa meg, vagy távolítsa el a jelenlegi szűrőt"
 
 msgctxt "#32456"
+msgid "Show"
+msgstr ""
+
+msgctxt "#32457"
+msgid "By Show"
+msgstr ""
+
+msgctxt "#32458"
+msgid "Episodes"
+msgstr ""
+
+msgctxt "#32459"
 msgid "Offline Mode"
 msgstr "Offline mód"
 
-msgctxt "#32457"
+msgctxt "#32460"
 msgid "Sign In"
 msgstr "Bejelentkezés"
+
+msgctxt "#32461"
+msgid "Albums"
+msgstr ""
+
+msgctxt "#32462"
+msgid "Artist"
+msgstr ""
+
+msgctxt "#32463"
+msgid "By Artist"
+msgstr ""
+
+msgctxt "#32464"
+msgid "Player"
+msgstr ""
+
+msgctxt "#32465"
+msgid "Use skip step settings from Kodi"
+msgstr ""
+
+msgctxt "#32466"
+msgid "Automatically seek selected position after a delay"
+msgstr ""
+
+msgctxt "#32467"
+msgid "User Interface"
+msgstr ""
+
+msgctxt "#32471"
+msgid "Use Plex/Kodi steps for timeline"
+msgstr ""
+
+msgctxt "#32485"
+msgid "Go back instantly with the previous menu action in scrolled views"
+msgstr ""
