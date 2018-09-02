@@ -97,7 +97,7 @@
                             <align>center</align>
                             <aligny>center</aligny>
                             <textcolor>FF000000</textcolor>
-                            <label>All</label>
+                            <label>$ADDON[script.plex 32345]</label>
                         </control>
                     </control>
                     <control type="label">
